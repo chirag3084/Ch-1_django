@@ -1,2 +1,2 @@
 # Ch1-django
- ## introduction to django is covered
+## introduction to django is covered
